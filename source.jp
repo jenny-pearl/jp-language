@@ -1,0 +1,5 @@
+0
+for dup 10 < do
+	23 print
+	1 +
+end
